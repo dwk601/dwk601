@@ -22,7 +22,7 @@ Hi, I'm @dwk601! I'm a computer science who is AI-focused Software Engineer Pres
 - Data Engineering
 
 ## Contact
-- LinkedIn: [Link](https://www.linkedin.com/in/dongwook-kim-35527b1b2/)
+- LinkedIn: [Link](https://www.linkedin.com/in/dongwook-kim-35527b1b2/](https://www.linkedin.com/in/dwk1/)
 
 <!---
 dwk601/dwk601 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
