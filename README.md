@@ -1,6 +1,6 @@
 # dwk601
 
-Hi, I'm @dwk601! I'm a computer science who is AI-focused Software Engineer Presidential Intern with expertise in C, JavaScript, Python, and Kotlin. Passionate about system architecture, software design, and delivering impactful projects.
+Hi, I'm @dwk601! From Korea has an Asian brain.
 
 ## Skills
 - Data Science
