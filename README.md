@@ -4,9 +4,9 @@
 
 <h3 align="center">Full Stack Developer & AI Enthusiast 👨‍💻</h3>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center;">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Computer+Science+Student;AI+%26+LLM+Explorer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full+Stack+Developer;Computer+Science+Student;AI+%26+LLM+Explorer)](https://git.io/typing-svg)
   
 </div>
 
