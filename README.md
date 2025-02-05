@@ -33,7 +33,7 @@ A passionate developer from Korea with expertise in Data Science and Full Stack 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dwk601&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dwk601" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=dwk601" alt="GitHub Streak" />
 </div>
 
 ## 🤝 Let's Connect!
