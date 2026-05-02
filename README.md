@@ -43,6 +43,6 @@ Full-stack developer building at the intersection of web, AI, and data.
 ### GitHub Stats
 
 <a href="https://github.com/dwk601">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dwk601&show_icons=true&theme=transparent&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=334155" />
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/demo/preview.php?user=dwk601&theme=transparent&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dwk601&show_icons=true&theme=transparent&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=334155&cache_seconds=86400" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=dwk601&theme=transparent&hide_border=true&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=334155&currStreakLabel=6366F1" />
 </a>
