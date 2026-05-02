@@ -1,83 +1,48 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=DongWook%20Kim&fontSize=80&animation=fadeIn" />
-</div>
+## Hi, I'm DongWook Kim
 
-<h3 align="center">Full Stack Developer & AI Enthusiast 👨‍💻</h3>
+Full-stack developer building at the intersection of web, AI, and data.
 
-<div align="center" style="display: flex; justify-content: center;">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full+Stack+Developer;Computer+Science+Student;AI+%26+LLM+Explorer)](https://git.io/typing-svg)
-  
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6366F1&width=435&lines=Full+Stack+Developer;AI+%26+LLM+Explorer;Building+at+the+edge+of+web+and+AI)](https://git.io/typing-svg)
 
-## 👨‍💻 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwk1/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://next-portfolio-ten-flax.vercel.app/)
+[![App](https://img.shields.io/badge/Product-gongu.xyz-6366F1?style=flat-square)](https://gongu.xyz)
 
-```yaml
-Currently:
-  - Full Stack Developer with hands-on experience
-  - Computer Science Student
-  - Exploring AI & LLM technologies
-  
-Interests:
-  - Web Development
-  - AI/ML Applications
-  - System Architecture
-```
+---
 
-## 🛠️ Tech Stack
+### Stack
 
-<div align="center">
-  
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
-  
-</div>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Sui](https://img.shields.io/badge/Sui-4DA2FF?style=flat-square&logo=sui&logoColor=white)
 
-## 🎯 Current Focus
+---
 
-```yaml
-Learning:
-  - Advanced Frontend Architectures
-  - Large Language Models & Their Applications
-  - Cloud Native Development
-  - System Design Patterns
-```
+### Featured Projects
 
-## 📊 GitHub Analytics
+- **[gongu.xyz](https://gongu.xyz)** — Live product
+- **[koreaJobCrawl](https://github.com/dwk601/koreaJobCrawl)** — Korean job market crawler & analytics
+- **[opendart-api-skill](https://github.com/dwk601/opendart-api-skill)** — Korean corporate financial data pipeline
+- **[athlos](https://github.com/dwk601/athlos)** — Full-stack web application
+- **[sui](https://github.com/dwk601/sui)** — Sui blockchain development & smart contracts
+- **[DAOTao](https://github.com/dwk601/DAO-Tao)** — Decentralized application
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dwk601&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://nirzak-streak-stats.vercel.app/demo/preview.php?user=dwk601&theme=tokyonight"/>
-</div>
+---
 
-## 🎓 Projects & Explorations
+### GitHub Stats
 
-- 🚀 Building full-stack web applications
-- 🤖 Experimenting with LLMs and AI models
-- 📚 Studying advanced CS concepts
-- 🌐 Contributing to open-source projects
-
-## 🤝 Connect With Me
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwk1/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dwk601)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://next-portfolio-ten-flax.vercel.app/)
-  
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
+<a href="https://github.com/dwk601">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dwk601&show_icons=true&theme=transparent&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=334155" />
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/demo/preview.php?user=dwk601&theme=transparent&hide_border=true" />
+</a>
