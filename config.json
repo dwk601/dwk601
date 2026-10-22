@@ -1,0 +1,180 @@
+{
+  "login": "dwk601",
+  "name": "Dongwook Kim",
+  "eyebrow": "AI ENGINEER  ·  FULL-STACK  ·  BUFORD, GA",
+  "headline": "I build practical AI systems that make work faster.",
+  "availability": "Open to meaningful AI, automation and full-stack conversations",
+  "typed": [
+    "automating office operations at Alfrex USA",
+    "shipping self-hosted full-stack products",
+    "teaching coding agents to ship safely",
+    "studying data science at Georgia Tech"
+  ],
+  "links": [
+    {
+      "label": "devkim.me",
+      "url": "https://devkim.me",
+      "color": "#ff6a3d"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dwk1/",
+      "color": "#45e3d0"
+    },
+    {
+      "label": "Email",
+      "url": "mailto:dongook.kim@outlook.com",
+      "color": "#9b8cff"
+    },
+    {
+      "label": "gongu.xyz",
+      "url": "https://gongu.xyz",
+      "color": "#d7ff3f"
+    }
+  ],
+  "featured": [
+    {
+      "repo": "kstack",
+      "title": "kstack",
+      "blurb": "Explicit coding-agent skills for planning, reviewed implementation, verification and safe delivery.",
+      "tags": [
+        "Agent Skills",
+        "Claude Code",
+        "Codex",
+        "Pi"
+      ],
+      "accent": "#ff6a3d"
+    },
+    {
+      "repo": "koreer",
+      "title": "koreer",
+      "blurb": "No-auth job search for Korean speakers in the US. Bilingual listings from the last 60 days.",
+      "tags": [
+        "Next.js 16",
+        "React 19",
+        "Tailwind v4",
+        "next-intl"
+      ],
+      "live": "https://koreer.gongu.xyz/en",
+      "accent": "#45e3d0"
+    },
+    {
+      "repo": "ga-health-inspect",
+      "title": "ga-health-inspect",
+      "blurb": "Map-first explorer for ~38,000 Georgia health inspection records, on a reverse-engineered API and ETL.",
+      "tags": [
+        "React",
+        "MapLibre",
+        "FastAPI",
+        "PostgreSQL"
+      ],
+      "live": "https://ga-health.gongu.xyz/",
+      "accent": "#9b8cff"
+    },
+    {
+      "repo": "takt_shift",
+      "title": "takt_shift",
+      "blurb": "WebMCP production-scheduling sandbox. Agents optimize a synthetic factory, humans approve every commit.",
+      "tags": [
+        "WebMCP",
+        "TypeScript",
+        "SQLite",
+        "Coolify"
+      ],
+      "accent": "#d7ff3f"
+    },
+    {
+      "repo": "koreaJobApiV2",
+      "title": "koreaJobApiV2",
+      "blurb": "Read-only, search-heavy REST API behind Koreer: FastAPI, Meilisearch, Redis and a cron sync worker.",
+      "tags": [
+        "FastAPI",
+        "Meilisearch",
+        "Redis",
+        "Docker"
+      ],
+      "accent": "#ffaee8"
+    },
+    {
+      "repo": "penny",
+      "title": "penny",
+      "blurb": "Android app that tracks money automatically by syncing a bank connection over SimpleFIN.",
+      "tags": [
+        "Kotlin",
+        "Jetpack Compose",
+        "SimpleFIN",
+        "Android"
+      ],
+      "accent": "#ff6a3d"
+    }
+  ],
+  "stack": [
+    {
+      "group": "AI & Agents",
+      "color": "#ff6a3d",
+      "items": [
+        "Claude Code",
+        "Codex",
+        "MCP",
+        "Agent skills",
+        "Prompt engineering",
+        "Evals",
+        "Automation"
+      ]
+    },
+    {
+      "group": "Frontend",
+      "color": "#45e3d0",
+      "items": [
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Tailwind",
+        "Svelte",
+        "Vue 3"
+      ]
+    },
+    {
+      "group": "Backend & Data",
+      "color": "#9b8cff",
+      "items": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "PostGIS",
+        "Meilisearch",
+        "Redis",
+        "SQL Server",
+        "ETL"
+      ]
+    },
+    {
+      "group": "Mobile",
+      "color": "#ffaee8",
+      "items": [
+        "Kotlin",
+        "Jetpack Compose",
+        "Flutter"
+      ]
+    },
+    {
+      "group": "Infra",
+      "color": "#d7ff3f",
+      "items": [
+        "Docker",
+        "Coolify",
+        "Cloudflare Tunnels",
+        "Ubuntu",
+        "GitHub Actions",
+        "Vercel"
+      ]
+    }
+  ],
+  "recent": {
+    "count": 5,
+    "hide": [
+      "dwk601",
+      "suji-blog"
+    ]
+  }
+}

@@ -1,47 +1,68 @@
-## Hi, I'm DongWook Kim
+<div align="center">
 
-Full-stack developer building at the intersection of web, AI, and data.
+<img src="assets/header.svg" alt="Dongwook Kim, AI Engineer and full-stack developer" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6366F1&width=435&lines=Full+Stack+Developer;AI+%26+LLM+Explorer;Building+at+the+edge+of+web+and+AI)](https://git.io/typing-svg)
+<a href="https://devkim.me"><img src="assets/link-0.svg" alt="devkim.me" height="36"></a> &nbsp;<a href="https://www.linkedin.com/in/dwk1/"><img src="assets/link-1.svg" alt="LinkedIn" height="36"></a> &nbsp;<a href="mailto:dongook.kim@outlook.com"><img src="assets/link-2.svg" alt="Email" height="36"></a> &nbsp;<a href="https://gongu.xyz"><img src="assets/link-3.svg" alt="gongu.xyz" height="36"></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwk1/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://next-portfolio-ten-flax.vercel.app/)
-[![App](https://img.shields.io/badge/Product-gongu.xyz-6366F1?style=flat-square)](https://gongu.xyz)
+</div>
 
----
+<br>
 
-### Stack
+<img src="assets/sec-about.svg" alt="About" width="100%">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Sui](https://img.shields.io/badge/Sui-4DA2FF?style=flat-square&logo=sui&logoColor=white)
+I build AI-powered internal tools, custom ERP workflows and reporting automation for real business operations, and ship self-hosted products on the side. I care about clarity over cleverness, automation with a human in the loop, and outcomes over outputs.
 
----
+- **Now.** AI Engineer at **Alfrex USA**, replacing manual office work (email, intake, invoices, shipping tracking) with verified automation. Sample-request handling went from 10-15 minutes to about one.
+- **Studying.** M.S. in Data Science at **Georgia Tech**.
+- **Building.** [kstack](https://github.com/dwk601/kstack), a skill pack that makes coding agents plan, review, verify and ship. [takt_shift](https://github.com/dwk601/takt_shift), a WebMCP scheduling sandbox. A self-hosted product stack under [gongu.xyz](https://gongu.xyz).
+- **Before.** Production dashboards and MES data quality at Hyundai Mobis, frontier-model evaluation at Mercor, a Vue 2 to Vue 3 portal migration at Utah Valley University.
 
-### Featured Projects
+<br>
 
-- **[gongu.xyz](https://gongu.xyz)** — Live product
-- **[koreaJobCrawl](https://github.com/dwk601/koreaJobCrawl)** — Korean job market crawler & analytics
-- **[opendart-api-skill](https://github.com/dwk601/opendart-api-skill)** — Korean corporate financial data pipeline
-- **[athlos](https://github.com/dwk601/athlos)** — Full-stack web application
-- **[sui](https://github.com/dwk601/sui)** — Sui blockchain development & smart contracts
-- **[DAOTao](https://github.com/dwk601/DAO-Tao)** — Decentralized application
+<img src="assets/sec-activity.svg" alt="Activity" width="100%">
 
----
+<div align="center">
 
-### GitHub Stats
+<img src="assets/stats.svg" alt="Contributions, pull requests, streak, active days and repositories" width="100%">
+<br><br>
+<img src="assets/activity.svg" alt="Contribution graph for the last year" width="100%">
+<br><br>
+<img src="assets/languages.svg" alt="Language breakdown by code volume" width="100%">
 
-<a href="https://github.com/dwk601">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=dwk601&theme=transparent&hide_border=true&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=334155&currStreakLabel=6366F1" />
-</a>
+</div>
+
+<br>
+
+<img src="assets/sec-projects.svg" alt="Selected work" width="100%">
+
+<p align="center"><a href="https://github.com/dwk601/kstack"><img src="assets/card-kstack.svg" alt="kstack: Explicit coding-agent skills for planning, reviewed implementation, verification and safe delivery." width="49%"></a>&nbsp;<a href="https://github.com/dwk601/koreer"><img src="assets/card-koreer.svg" alt="koreer: No-auth job search for Korean speakers in the US. Bilingual listings from the last 60 days." width="49%"></a></p>
+<p align="center"><a href="https://github.com/dwk601/ga-health-inspect"><img src="assets/card-ga-health-inspect.svg" alt="ga-health-inspect: Map-first explorer for ~38,000 Georgia health inspection records, on a reverse-engineered API and ETL." width="49%"></a>&nbsp;<a href="https://github.com/dwk601/takt_shift"><img src="assets/card-takt_shift.svg" alt="takt_shift: WebMCP production-scheduling sandbox. Agents optimize a synthetic factory, humans approve every commit." width="49%"></a></p>
+<p align="center"><a href="https://github.com/dwk601/koreaJobApiV2"><img src="assets/card-koreaJobApiV2.svg" alt="koreaJobApiV2: Read-only, search-heavy REST API behind Koreer: FastAPI, Meilisearch, Redis and a cron sync worker." width="49%"></a>&nbsp;<a href="https://github.com/dwk601/penny"><img src="assets/card-penny.svg" alt="penny: Android app that tracks money automatically by syncing a bank connection over SimpleFIN." width="49%"></a></p>
+
+<p align="center"><sub>Live: <a href="https://koreer.gongu.xyz/en">koreer.gongu.xyz</a> &nbsp;/&nbsp; <a href="https://ga-health.gongu.xyz/">ga-health.gongu.xyz</a> &nbsp;/&nbsp; <a href="https://github.com/dwk601?tab=repositories">all repositories</a></sub></p>
+
+<br>
+
+<img src="assets/sec-recent.svg" alt="Recently shipped" width="100%">
+
+- **[kstack](https://github.com/dwk601/kstack)** &middot; Port pstack updates into existing skills within size budget &middot; <sub>1d ago</sub>
+- **[YumGo](https://github.com/dwk601/YumGo)** &middot; test: scroll Analyze into view before tapping with IME up &middot; <sub>3w ago</sub>
+- **[takt_shift](https://github.com/dwk601/takt_shift)** &middot; feat: add umami analytics snippet &middot; <sub>4w ago</sub>
+- **[koreaRentalETL](https://github.com/dwk601/koreaRentalETL)** &middot; fix(compose): publish API on host port 8087 by default &middot; <sub>4w ago</sub>
+- **[koreer](https://github.com/dwk601/koreer)** &middot; test: retest coverage for the locale fix pass &middot; <sub>4w ago</sub>
+
+<br>
+
+<img src="assets/sec-stack.svg" alt="Toolbox" width="100%">
+
+<div align="center">
+
+<img src="assets/stack.svg" alt="Toolbox: AI and agents, frontend, backend and data, mobile, infrastructure" width="100%">
+
+<br><br>
+
+<img src="assets/footer.svg" alt="" width="100%">
+
+<sub>Stats and recent work refresh daily from the GitHub API. Last run 2026-10-22. <a href="scripts/generate.py">How it works</a></sub>
+
+</div>
