@@ -10,12 +10,12 @@
 
 <img src="assets/sec-about.svg" alt="About" width="100%">
 
-I build AI-powered internal tools, custom ERP workflows and reporting automation for real business operations, and ship self-hosted products on the side. I care about clarity over cleverness, automation with a human in the loop, and outcomes over outputs.
+I build internal tools, custom ERP workflows and reporting automation. On my own time I ship self-hosted web apps and skills for coding agents.
 
-- **Now.** AI Engineer at **Alfrex USA**, replacing manual office work (email, intake, invoices, shipping tracking) with verified automation. Sample-request handling went from 10-15 minutes to about one.
-- **Studying.** M.S. in Data Science at **Georgia Tech**.
-- **Building.** [kstack](https://github.com/dwk601/kstack), a skill pack that makes coding agents plan, review, verify and ship. [takt_shift](https://github.com/dwk601/takt_shift), a WebMCP scheduling sandbox. A self-hosted product stack under [gongu.xyz](https://gongu.xyz).
-- **Before.** Production dashboards and MES data quality at Hyundai Mobis, frontier-model evaluation at Mercor, a Vue 2 to Vue 3 portal migration at Utah Valley University.
+- **Now.** I'm an AI Engineer at Alfrex USA, automating office work: email, intake, invoices and shipping tracking. Sample requests that took 10 to 15 minutes now take about one.
+- **Studying.** M.S. in Data Science at Georgia Tech.
+- **Building.** [kstack](https://github.com/dwk601/kstack) is a skill pack that takes a coding agent from plan to merged PR. [takt_shift](https://github.com/dwk601/takt_shift) is a WebMCP scheduling sandbox. I self-host my apps, including koreer and the GA health atlas, on gongu.xyz.
+- **Before.** At Hyundai Mobis I built production dashboards and resolved 300+ MES data inconsistencies. At Mercor I evaluated frontier AI models. At Utah Valley University I moved the student portal from Vue 2 to Vue 3.
 
 <br>
 
@@ -57,6 +57,6 @@ I build AI-powered internal tools, custom ERP workflows and reporting automation
 
 <img src="assets/footer.svg" alt="" width="100%">
 
-<sub>Stats and recent work refresh daily from the GitHub API. Last run {{UPDATED}}. <a href="scripts/generate.py">How it works</a></sub>
+<sub>Last refreshed {{UPDATED}}. <a href="scripts/generate.py">How this page works</a></sub>
 
 </div>

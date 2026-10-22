@@ -2,12 +2,12 @@
   "login": "dwk601",
   "name": "Dongwook Kim",
   "eyebrow": "AI ENGINEER  ·  FULL-STACK  ·  BUFORD, GA",
-  "headline": "I build practical AI systems that make work faster.",
-  "availability": "Open to meaningful AI, automation and full-stack conversations",
+  "headline": "I build AI tools that replace manual office work.",
+  "availability": "Open to AI and automation projects",
   "typed": [
-    "automating office operations at Alfrex USA",
-    "shipping self-hosted full-stack products",
-    "teaching coding agents to ship safely",
+    "automating office work at Alfrex USA",
+    "self-hosting my own web apps",
+    "writing skills for coding agents",
     "studying data science at Georgia Tech"
   ],
   "links": [
@@ -36,7 +36,7 @@
     {
       "repo": "kstack",
       "title": "kstack",
-      "blurb": "Explicit coding-agent skills for planning, reviewed implementation, verification and safe delivery.",
+      "blurb": "11 skills that take a coding task from plan to merged PR in Claude Code, Codex and Pi.",
       "tags": [
         "Agent Skills",
         "Claude Code",
@@ -61,7 +61,7 @@
     {
       "repo": "ga-health-inspect",
       "title": "ga-health-inspect",
-      "blurb": "Map-first explorer for ~38,000 Georgia health inspection records, on a reverse-engineered API and ETL.",
+      "blurb": "Map for searching about 38,000 Georgia health inspections, on an API reverse-engineered from the state site.",
       "tags": [
         "React",
         "MapLibre",
@@ -74,7 +74,7 @@
     {
       "repo": "takt_shift",
       "title": "takt_shift",
-      "blurb": "WebMCP production-scheduling sandbox. Agents optimize a synthetic factory, humans approve every commit.",
+      "blurb": "WebMCP production-scheduling sandbox. Agents propose schedules for a synthetic factory and a human approves every change.",
       "tags": [
         "WebMCP",
         "TypeScript",
@@ -86,7 +86,7 @@
     {
       "repo": "koreaJobApiV2",
       "title": "koreaJobApiV2",
-      "blurb": "Read-only, search-heavy REST API behind Koreer: FastAPI, Meilisearch, Redis and a cron sync worker.",
+      "blurb": "Read-only REST API behind Koreer. FastAPI, Meilisearch, Redis and a cron sync worker.",
       "tags": [
         "FastAPI",
         "Meilisearch",
