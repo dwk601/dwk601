@@ -45,10 +45,10 @@ I build internal tools, custom ERP workflows and reporting automation. On my own
 
 <img src="assets/sec-recent.svg" alt="Recently shipped" width="100%">
 
-- **[near-budget-broker-mcp](https://github.com/dwk601/near-budget-broker-mcp)** &middot; test: give compose secret files to daemon uid on Linux runners &middot; <sub>1d ago</sub>
-- **[kstack](https://github.com/dwk601/kstack)** &middot; Simplify skill prompts and clarify delivery workflow &middot; <sub>2d ago</sub>
-- **[YumGo](https://github.com/dwk601/YumGo)** &middot; test: scroll Analyze into view before tapping with IME up &middot; <sub>3w ago</sub>
-- **[takt_shift](https://github.com/dwk601/takt_shift)** &middot; feat: add umami analytics snippet &middot; <sub>4w ago</sub>
+- **[near-budget-broker-mcp](https://github.com/dwk601/near-budget-broker-mcp)** &middot; test: give compose secret files to daemon uid on Linux runners &middot; <sub>3d ago</sub>
+- **[kstack](https://github.com/dwk601/kstack)** &middot; Simplify skill prompts and clarify delivery workflow &middot; <sub>4d ago</sub>
+- **[YumGo](https://github.com/dwk601/YumGo)** &middot; test: scroll Analyze into view before tapping with IME up &middot; <sub>4w ago</sub>
+- **[takt_shift](https://github.com/dwk601/takt_shift)** &middot; feat: add umami analytics snippet &middot; <sub>5w ago</sub>
 - **[koreaRentalETL](https://github.com/dwk601/koreaRentalETL)** &middot; fix(compose): publish API on host port 8087 by default &middot; <sub>5w ago</sub>
 
 <br>
@@ -63,6 +63,6 @@ I build internal tools, custom ERP workflows and reporting automation. On my own
 
 <img src="assets/footer.svg" alt="" width="100%">
 
-<sub>Last refreshed 2026-10-25. <a href="scripts/generate.py">How this page works</a></sub>
+<sub>Last refreshed 2026-10-27. <a href="scripts/generate.py">How this page works</a></sub>
 
 </div>
