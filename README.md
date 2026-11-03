@@ -45,11 +45,11 @@ I build internal tools, custom ERP workflows and reporting automation. On my own
 
 <img src="assets/sec-recent.svg" alt="Recently shipped" width="100%">
 
-- **[ga_health_inspect_etl](https://github.com/dwk601/ga_health_inspect_etl)** &middot; Retry transport-failed reports from backlog &middot; <sub>just now</sub>
-- **[near-budget-broker-mcp](https://github.com/dwk601/near-budget-broker-mcp)** &middot; test: give compose secret files to daemon uid on Linux runners &middot; <sub>10d ago</sub>
-- **[kstack](https://github.com/dwk601/kstack)** &middot; Simplify skill prompts and clarify delivery workflow &middot; <sub>10d ago</sub>
+- **[penny](https://github.com/dwk601/penny)** &middot; docs: add engineering standards to AGENTS.md &middot; <sub>4h ago</sub>
+- **[ga_health_inspect_etl](https://github.com/dwk601/ga_health_inspect_etl)** &middot; Add manually maintained google_places column to facilities &middot; <sub>19h ago</sub>
+- **[near-budget-broker-mcp](https://github.com/dwk601/near-budget-broker-mcp)** &middot; test: give compose secret files to daemon uid on Linux runners &middot; <sub>11d ago</sub>
+- **[kstack](https://github.com/dwk601/kstack)** &middot; Simplify skill prompts and clarify delivery workflow &middot; <sub>11d ago</sub>
 - **[YumGo](https://github.com/dwk601/YumGo)** &middot; test: scroll Analyze into view before tapping with IME up &middot; <sub>5w ago</sub>
-- **[takt_shift](https://github.com/dwk601/takt_shift)** &middot; feat: add umami analytics snippet &middot; <sub>6w ago</sub>
 
 <br>
 
@@ -63,6 +63,6 @@ I build internal tools, custom ERP workflows and reporting automation. On my own
 
 <img src="assets/footer.svg" alt="" width="100%">
 
-<sub>Last refreshed 2026-11-02. <a href="scripts/generate.py">How this page works</a></sub>
+<sub>Last refreshed 2026-11-03. <a href="scripts/generate.py">How this page works</a></sub>
 
 </div>
