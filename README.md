@@ -45,11 +45,11 @@ I build internal tools, custom ERP workflows and reporting automation. On my own
 
 <img src="assets/sec-recent.svg" alt="Recently shipped" width="100%">
 
-- **[penny](https://github.com/dwk601/penny)** &middot; docs: add engineering standards to AGENTS.md &middot; <sub>4h ago</sub>
-- **[ga_health_inspect_etl](https://github.com/dwk601/ga_health_inspect_etl)** &middot; Add manually maintained google_places column to facilities &middot; <sub>19h ago</sub>
-- **[near-budget-broker-mcp](https://github.com/dwk601/near-budget-broker-mcp)** &middot; test: give compose secret files to daemon uid on Linux runners &middot; <sub>11d ago</sub>
-- **[kstack](https://github.com/dwk601/kstack)** &middot; Simplify skill prompts and clarify delivery workflow &middot; <sub>11d ago</sub>
-- **[YumGo](https://github.com/dwk601/YumGo)** &middot; test: scroll Analyze into view before tapping with IME up &middot; <sub>5w ago</sub>
+- **[ga-health-inspect](https://github.com/dwk601/ga-health-inspect)** &middot; Preserve managed settings across reloads &middot; <sub>2h ago</sub>
+- **[kstack](https://github.com/dwk601/kstack)** &middot; Tighten efficiency safety contracts and CI concurrency advice &middot; <sub>20h ago</sub>
+- **[penny](https://github.com/dwk601/penny)** &middot; docs: add engineering standards to AGENTS.md &middot; <sub>1d ago</sub>
+- **[ga_health_inspect_etl](https://github.com/dwk601/ga_health_inspect_etl)** &middot; Add manually maintained google_places column to facilities &middot; <sub>1d ago</sub>
+- **[near-budget-broker-mcp](https://github.com/dwk601/near-budget-broker-mcp)** &middot; test: give compose secret files to daemon uid on Linux runners &middot; <sub>12d ago</sub>
 
 <br>
 
@@ -63,6 +63,6 @@ I build internal tools, custom ERP workflows and reporting automation. On my own
 
 <img src="assets/footer.svg" alt="" width="100%">
 
-<sub>Last refreshed 2026-11-03. <a href="scripts/generate.py">How this page works</a></sub>
+<sub>Last refreshed 2026-11-04. <a href="scripts/generate.py">How this page works</a></sub>
 
 </div>
