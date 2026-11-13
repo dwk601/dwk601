@@ -45,11 +45,11 @@ I build internal tools, custom ERP workflows and reporting automation. On my own
 
 <img src="assets/sec-recent.svg" alt="Recently shipped" width="100%">
 
-- **[uscis_gongu](https://github.com/dwk601/uscis_gongu)** &middot; Remove leftover header styles and styling-coupled assertions &middot; <sub>3h ago</sub>
-- **[ga-health-inspect](https://github.com/dwk601/ga-health-inspect)** &middot; Match side-by-side breakpoint exactly &middot; <sub>19h ago</sub>
-- **[kstack](https://github.com/dwk601/kstack)** &middot; Separate task review from integration audit and batch verification re… &middot; <sub>2d ago</sub>
-- **[ga_health_inspect_etl](https://github.com/dwk601/ga_health_inspect_etl)** &middot; Wait out GNR blocks during detail fetches and keep one session &middot; <sub>7d ago</sub>
-- **[penny](https://github.com/dwk601/penny)** &middot; docs: add engineering standards to AGENTS.md &middot; <sub>9d ago</sub>
+- **[uscis_gongu](https://github.com/dwk601/uscis_gongu)** &middot; Copy CA certs from build stage instead of apk add in runtime image &middot; <sub>just now</sub>
+- **[ga-health-inspect](https://github.com/dwk601/ga-health-inspect)** &middot; Match filter disclosure marker and prune redundant code &middot; <sub>2h ago</sub>
+- **[kstack](https://github.com/dwk601/kstack)** &middot; Separate task review from integration audit and batch verification re… &middot; <sub>3d ago</sub>
+- **[ga_health_inspect_etl](https://github.com/dwk601/ga_health_inspect_etl)** &middot; Wait out GNR blocks during detail fetches and keep one session &middot; <sub>8d ago</sub>
+- **[penny](https://github.com/dwk601/penny)** &middot; docs: add engineering standards to AGENTS.md &middot; <sub>10d ago</sub>
 
 <br>
 
@@ -63,6 +63,6 @@ I build internal tools, custom ERP workflows and reporting automation. On my own
 
 <img src="assets/footer.svg" alt="" width="100%">
 
-<sub>Last refreshed 2026-11-12. <a href="scripts/generate.py">How this page works</a></sub>
+<sub>Last refreshed 2026-11-13. <a href="scripts/generate.py">How this page works</a></sub>
 
 </div>
